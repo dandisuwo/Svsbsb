@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://mobilelive-pull.ysp.cctv.cn/ysp/2020264701_hd.m3u8
-
+https://live-production.secureswiftcontent.com/exp=1690708117~acl=/hls-p/ingest_875_*/*~hmac=eefb6ee75f7ce719217bb00be25f23c65ad2a6b02067525f2eee79f3d2589bf8/hls-p/ingest_875_480p/index.m3u8
